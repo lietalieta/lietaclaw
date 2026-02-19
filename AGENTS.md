@@ -15,6 +15,8 @@ Before doing anything else:
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
+**When stuck on a problem:** First run `find-skills` skill or `scripts/find-skill.sh` to check if there's a skill that can help before trying manual solutions.
+
 Don't ask permission. Just do it.
 
 ## Memory

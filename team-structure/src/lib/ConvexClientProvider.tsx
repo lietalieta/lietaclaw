@@ -7,7 +7,7 @@ import { ConvexReactClient } from "convex/react";
 const convexUrl = process.env.NEXT_PUBLIC_CONVEX_URL || "https://determined-vulture-867.convex.cloud";
 const convex = new ConvexReactClient(convexUrl);
 
-const APP_PASSWORD = "lieta2026"; // Change this!
+const APP_PASSWORD = "Solutions@lieta1"; // Change this!
 
 function LoginScreen() {
   const [password, setPassword] = useState("");

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.openclaw.gateway-watch</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/lieta/.openclaw/workspace/scripts/check-gateway.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>StartInterval</key>
+    <integer>60</integer>
+    <key>StandardOutPath</key>
+    <string>/Users/lieta/.openclaw/workspace/logs/gateway-watch.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/lieta/.openclaw/workspace/logs/gateway-watch.error</string>
+</dict>
+</plist>

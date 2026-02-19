@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1771510502824",
+    "title": "Build task board",
+    "status": "todo",
+    "assignee": "user",
+    "createdAt": 1771510502824,
+    "updatedAt": 1771510502824
+  },
+  {
+    "_id": "1771510506086",
+    "title": "Fix autosync bug",
+    "status": "in_progress",
+    "assignee": "user",
+    "createdAt": 1771510506086,
+    "updatedAt": 1771510517299
+  }
+]

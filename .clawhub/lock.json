@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1771267543512
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1771267765520
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1771267783860
+    },
+    "playwright-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1771267988246
+    },
+    "content-research": {
+      "version": "1.1.0",
+      "installedAt": 1771268000224
+    }
+  }
+}
